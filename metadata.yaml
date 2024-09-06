@@ -1,0 +1,25 @@
+_repo: Taistelon-tuoksinasta_74343
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pärsswinen, Hilja
+    gutenberg_agent_id: '57455'
+    url: http://www.gutenberg.org/2009/agents/57455
+description: ''
+gutenberg_issued: '2024-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74343'
+language: fi
+pgterms:marc905: 20230827054324prsswinen
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHelsinki :$bTyöväen Sanomalehti Oy, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Taistelon tuoksinasta
+url: http://www.gutenberg.org/ebooks/74343
